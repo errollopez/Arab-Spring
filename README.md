@@ -1,13 +1,12 @@
 # Arab Spring
-===
 
-##Abstract
+**Abstract**
 
 During Arab Spring, the series of events was widely covered and spread through social media. In this report, we analyze Twitter data from Arab Spring and the Hermida Study to analyze differences between four different source types: alternative voices, mainstream media, institutional elites, and other. We will use an array of data mining and text mining techniques to expand on the Hermida Study and conduct classifcation techniques to expand on the data. The results of the analysis suggest that source types and their tweet content. But other significant variables, such as deliveries, total impressions, violence, and tag counts account for the differences in tweets. 
 
 ---
 
-##Introduction
+**Introduction**
 
 Arab Spring refers to a series of anti-government protests, uprisings, and rebellions that spread across the Middle East in early 2011. The narrative of the young generation rising against oppresive governments gave birth to revolutions across the Middle East. Numerous factors led to this revolution: political corruption, human rights violations, unemployment, just to name a couple.
 
